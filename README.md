@@ -48,7 +48,14 @@ END
 ---
 
 ## 👤 Contact Information
-* **Name**: Marwa Mahmoud Mohamed
-* **Email**: [marwa.sw.eng@outlook.com](mailto:marwa.sw.eng@outlook.com)
-* **LinkedIn**: [marwa-mahmoud-123](https://www.linkedin.com/in/marwa-mahmoud123)
-* **Portfolio**: [marwa-mahmoud-sw-eng.vercel.app](https://marwa-mahmoud-sw-eng.vercel.app/)
+
+**Name:** Marwa Mahmoud El-Khatib
+
+**Email:** [marwa.m.elkhatib@outlook.com](mailto:marwa.m.elkhatib@outlook.com)
+
+**Connect with me:**
+
+- LinkedIn: [marwa-mahmoud-elkhatib](https://www.linkedin.com/in/marwa-mahmoud-elkhatib)
+- Portfolio: [marwa-mahmoud-elkhatib.vercel.app](https://marwa-mahmoud-elkhatib.vercel.app/)
+
+---
